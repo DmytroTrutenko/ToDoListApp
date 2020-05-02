@@ -11,7 +11,7 @@ export const About = () => (
                 Application Version <strong>1.0.0</strong>
             </p>
             <p className="lead">
-                Developer by
+                Developed by
                 <a href="https://dmytrotrutenko.github.io/MyPortfolioPage"> Dmitry Trutenko</a>.
             </p>
         </div>
